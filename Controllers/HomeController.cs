@@ -15,7 +15,7 @@ namespace ApiProject.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description ";
+            ViewBag.Message = "Your application descriptio";
 
             return View();
         }
